@@ -1,0 +1,2 @@
+This content is from the FEATURE branch.
+Git branching helps developers work independently.
